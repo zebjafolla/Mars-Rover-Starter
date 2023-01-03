@@ -21,6 +21,6 @@ You should have 13 tests that pass. If you have completed the bonus mission, you
 ### Grading Tests
 
 After these initial checks, your TA will run the tests inside `studentgrade.spec.js`. You may have noticed this file already, but this file only contains grading tests for your TA to use.
-If you would like to see if your work will pass the grading tests, you can insert it into the `spec/` folder and then run the tests. 
+If you would like to see if your work will pass the grading tests, run the tests inside that file. 
 
 When you are ready, submit the link to your repl in Canvas!
