@@ -15,8 +15,7 @@ First, your TA is going to check your code.
 They are looking to see if you have properly coded the `Message` class so that the tests pass.
 They will then turn their attention to the `Rover` class. Here, you need to complete the tests for the `Rover` class and add some functionality to the class itself. 
 
-After they review your code, they will run the code as-is to verify that you have completed all the tests and that all the tests pass.
-You should have 13 tests that pass. If you have completed the bonus mission, you should have 14 tests that pass.
+After they review your code, they will run the code as-is to verify that you have completed all the tests and that all the tests pass. You should have 14 tests that pass.
 
 ### Grading Tests
 
