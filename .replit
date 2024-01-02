@@ -1,3 +1,0 @@
-language = "nodejs"
-onboot = "npm i"
-run = "npm test"
